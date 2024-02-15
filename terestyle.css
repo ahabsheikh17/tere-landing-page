@@ -25,14 +25,12 @@ body {
 }
 
 .firstheader img {
-  /* margin-left: 80px; */
   width: 140px;
   height: 45px;
 }
 
 .secondheader {
   width: 512px;
-  /* margin-right: 80px; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -58,7 +56,6 @@ body {
 }
 .firstcontainer {
   width: 640px;
-  /* margin-left: 80px; */
 }
 
 .firstcontainer h1 {
@@ -114,7 +111,6 @@ body {
 
 .secondcontainer {
   width: 640px;
-  /* margin-right: 80px; */
 }
 
 .secondcontainer img {
